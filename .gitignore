@@ -1,0 +1,37 @@
+# Flutter
+ProductScanFrontend/.dart_tool/
+ProductScanFrontend/build/
+ProductScanFrontend/.flutter-plugins
+ProductScanFrontend/.flutter-plugins-dependencies
+ProductScanFrontend/.packages
+ProductScanFrontend/pubspec.lock
+
+# Android
+ProductScanFrontend/android/app/*.iml
+ProductScanFrontend/android/.gradle
+ProductScanFrontend/android/local.properties
+ProductScanFrontend/android/captures/
+ProductScanFrontend/android/gradlew
+ProductScanFrontend/android/gradlew.bat
+
+# Laravel
+ProductScanBackend/vendor/
+ProductScanBackend/node_modules/
+ProductScanBackend/.env
+ProductScanBackend/storage/*.key
+ProductScanBackend/.phpunit.result.cache
+ProductScanBackend/Homestead.json
+ProductScanBackend/Homestead.yaml
+ProductScanBackend/npm-debug.log
+ProductScanBackend/yarn-error.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
